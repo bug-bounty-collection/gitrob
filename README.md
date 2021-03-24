@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/michenriksen/gitrob/raw/master/static/images/gopher_full.png" alt="Gitrob" width="200" />
+  <img src="https://github.com/bug-bounty-collection/gitrob/raw/master/static/images/gopher_full.png" alt="Gitrob" width="200" />
 </p>
 <br />
 <br />
@@ -58,11 +58,11 @@ Gitrob will start its web interface and serve the results for analysis.
 
 ## Installation
 
-A [precompiled version is available](https://github.com/michenriksen/gitrob/releases) for each release, alternatively you can use the latest version of the source code from this repository in order to build your own binary.
+A [precompiled version is available](https://github.com/bug-bounty-collection/gitrob/releases) for each release, alternatively you can use the latest version of the source code from this repository in order to build your own binary.
 
 Make sure you have a correctly configured **Go >= 1.8** environment and that `$GOPATH/bin` is in your `$PATH`
 
-    $ go get github.com/michenriksen/gitrob
+    $ go get github.com/bug-bounty-collection/gitrob
 
 This command will download gitrob, install its dependencies, compile it and move the `gitrob` executable to `$GOPATH/bin`.
 
