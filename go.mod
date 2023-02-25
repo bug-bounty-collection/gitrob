@@ -33,7 +33,7 @@ require (
 	golang.org/x/net v0.0.0-20180611182652-db08ff08e862 // indirect
 	golang.org/x/oauth2 v0.0.0-20180603041954-1e0a3fa8ba9a
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20180612142214-a9e25c09b96b // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/text v0.3.0 // indirect
 	google.golang.org/appengine v1.0.0 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
